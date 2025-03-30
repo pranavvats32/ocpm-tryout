@@ -2797,11 +2797,11 @@
             "ocel:activity": "Cancel application",
             "ocel:timestamp": "2016-02-29T08:01:41.085000",
             "ocel:omap": [
-                "Offer_1284560550",
-                "Offer_960229906",
-                "Offer_1780347374",
-                "Offer_201843452",
                 "Offer_1982495450",
+                "Offer_201843452",
+                "Offer_960229906",
+                "Offer_1284560550",
+                "Offer_1780347374",
                 "Application_1825104006"
             ],
             "ocel:vmap": {
@@ -3033,9 +3033,9 @@
             "ocel:activity": "Cancel application",
             "ocel:timestamp": "2016-03-03T08:00:36.966000",
             "ocel:omap": [
-                "Offer_278455731",
                 "Offer_788969230",
                 "Offer_1742928390",
+                "Offer_278455731",
                 "Offer_1962998865",
                 "Application_1944782361"
             ],
@@ -3098,8 +3098,8 @@
             "ocel:omap": [
                 "Offer_1886787133",
                 "Offer_1479717640",
-                "Offer_52163323",
                 "Offer_1829400135",
+                "Offer_52163323",
                 "Application_1514861341"
             ],
             "ocel:vmap": {
@@ -3159,11 +3159,11 @@
             "ocel:activity": "Cancel application",
             "ocel:timestamp": "2016-03-03T08:00:53.194000",
             "ocel:omap": [
-                "Offer_691254459",
-                "Offer_573720538",
                 "Offer_2042742939",
-                "Offer_1041402161",
                 "Offer_365844741",
+                "Offer_573720538",
+                "Offer_1041402161",
+                "Offer_691254459",
                 "Application_1679363646"
             ],
             "ocel:vmap": {
@@ -3236,10 +3236,10 @@
             "ocel:timestamp": "2016-03-03T08:00:55.185000",
             "ocel:omap": [
                 "Offer_1097745455",
-                "Offer_1005523025",
-                "Offer_552644105",
-                "Offer_1186839614",
                 "Offer_1536198680",
+                "Offer_1186839614",
+                "Offer_552644105",
+                "Offer_1005523025",
                 "Application_1313879847"
             ],
             "ocel:vmap": {
@@ -3311,10 +3311,10 @@
             "ocel:activity": "Cancel application",
             "ocel:timestamp": "2016-03-03T08:01:00.428000",
             "ocel:omap": [
-                "Offer_973694397",
-                "Offer_454127323",
                 "Offer_524567372",
                 "Offer_1385372401",
+                "Offer_454127323",
+                "Offer_973694397",
                 "Application_929235447"
             ],
             "ocel:vmap": {
@@ -19835,11 +19835,11 @@
             "ocel:activity": "Cancel application",
             "ocel:timestamp": "2016-11-19T08:00:38.139000",
             "ocel:omap": [
-                "Offer_577450785",
                 "Offer_34152516",
+                "Offer_577450785",
                 "Offer_400421751",
-                "Offer_329522221",
                 "Offer_805253858",
+                "Offer_329522221",
                 "Application_1112791540"
             ],
             "ocel:vmap": {
