@@ -40,12 +40,13 @@ Prefarabely in conda prompt using admin priviledge.
 
 ## Known Issues
 - **Conformance**: Fitness and precision of the full log cannot be calculated, log needs to be filtered by removing infrequent variants.
-- **JSON vs. JSONOCEL format mismatch**: The datasets on the OCPA website may require conversion.
+- **JSON vs. JSONOCEL format mismatch**: The datasets on the OCEL website are of JSON while we can only import JSONOCEL.
 - **Visualization scaling**: The complete log produces a Petri net that is too large to be easily readable.
   
 ## Future Improvements
 - Implement additional conformance checking techniques.
 - Explore object-token-based replay for better fitness evaluation.
+- Process Analysis for calculating metrics like time, frequency, aggregates.
 
 ## References
 - [OCPA GitHub Repository](https://github.com/ocpm/ocpa)
