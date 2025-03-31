@@ -52,7 +52,7 @@ Prefarabely in conda prompt using admin priviledge.
 - [OCPA GitHub Repository](https://github.com/ocpm/ocpa)
 - [OCPM Documentation](https://ocpa.readthedocs.io/en/latest/)
 - [OCPI](https://ocpi.ai/#about)
-- [P2P Log](https://github.com/ocpm/ocpa/blob/main/sample_logs/jsonocel/p2p-2023.jsonocel))
+- [P2P Log](https://github.com/ocpm/ocpa/blob/main/sample_logs/jsonocel/p2p-2023.jsonocel)
 - [Intermediate Log](https://github.com/ocpm/ocpa/blob/main/sample_logs/jsonocel/intermediate.jsonocel)
 
 
